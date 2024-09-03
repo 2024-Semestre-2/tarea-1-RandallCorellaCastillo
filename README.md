@@ -4,5 +4,5 @@
 ### [2020087763] [Randall Corella Castillo]
 
 ### Estado del proyecto: 5
-### Enlace del video: ...
+### Enlace del video: [...](https://youtu.be/HAhRoaH8nu0)
 Recordar que el video debe ser público y con sonido para ser visto por el profesor
